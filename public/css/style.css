@@ -1,0 +1,45 @@
+
+
+body {
+  font-family: '游ゴシック Medium', '游ゴシック体', 'Yu Gothic Medium', YuGothic, 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+  background-color: #EEEEEE;
+}
+
+div#contents {
+  width : 800px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+
+.contents form {
+  width: auto;
+}
+
+.inputArea {
+  margin: auto;
+  background-color: lightblue;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding: 0;
+}
+
+.inputArea textarea {
+  box-sizing:border-box;
+  width: 100%;
+  margin: 50px 0 10px 0;
+  border: none;
+}
+
+.listArea {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.listArea pre {
+  color: #006ec3;
+  background-color: #fffde0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
